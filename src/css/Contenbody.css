@@ -1,0 +1,45 @@
+article {
+    border-radius: 5px;
+    padding: 2em 1em 1em 1em;
+    margin-top: 2rem;
+    background-color: #fff;
+    margin-right: 220px;
+overflow: hidden;
+}
+article h3{
+    font-size: 3rem;
+   font-family: "Helvetica","Nimbus Sans L","Arial","Liberation Sans",sans-serif;
+   margin: 0;
+}
+.tacgia{
+    font-size: 2rem;
+}
+.conten{
+    font-size: 1.5rem;
+    padding-bottom: 1em;
+}
+.title{
+    font-size: 1.5rem;
+    border-top: 1px solid gray;
+    padding-top: 1em;
+}
+
+.conten-container{
+    display: block;
+    background-color: #fff;
+    margin-top: 3em;
+   text-align: center;
+    height: auto;
+}
+.conten-container img{
+    width: 60rem;
+    height: 30rem;
+}
+.title-container{
+    margin: 3rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    border-bottom: 1px solid gray;
+    transition: inherit;
+    text-align: justify;
+}

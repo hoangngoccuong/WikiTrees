@@ -1,0 +1,37 @@
+#footer{
+    background-color: #93B874;
+    padding-bottom: 10rem;
+    display: flex;
+    color: white;
+    margin-top: 2rem;
+}
+.title-footer{
+    flex: 45%;
+    margin: 10rem 0 0 0;
+}
+.danhmuc-footer{
+    margin-right: 2rem;
+    flex: 55%;
+    margin-top: 10rem;
+    display: flex;
+}
+#footer .h4{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    color: white;
+}
+.title-footer .p{
+     margin-top: 2.5em;
+    }
+#footer .p{
+    margin-top: 2.5rem;
+    font-size: 2em;
+}
+.icon-footer{
+    margin-top: 2rem;
+    font-size: 2.5rem;
+}
+.icon-footer>i{
+    margin-right: 1rem;
+}
